@@ -7,13 +7,13 @@ Wakaranai es una landing page dedicada a la cultura japonesa y las noticias rela
 ## Capturas de Pantalla
 
 ![Captura de Pantalla 1](screenshot1.png)
-_Descripción: Página de inicio de Wakaranai._
+_Página de inicio de Wakaranai._
 
 ![Captura de Pantalla 2](screenshot2.png)
-_Descripción: Sección de Sign In._
+_Sección de Sign In._
 
 ![Captura de Pantalla 3](screenshot3.png)
-_Descripción: Sección de Log In._
+_Sección de Log In._
 
 ## Características Principales
 
